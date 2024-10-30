@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lasca\\source\\repos\\CalculadoraWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60956F9-3329-41BF-94F9-9C3CFE1FD5EE}|CalculadoraWeb.csproj|c:\\users\\lasca\\source\\repos\\calculadoraweb\\calculadora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60956F9-3329-41BF-94F9-9C3CFE1FD5EE}|CalculadoraWeb.csproj|solutionrelative:calculadora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60956F9-3329-41BF-94F9-9C3CFE1FD5EE}|CalculadoraWeb.csproj|c:\\users\\lasca\\source\\repos\\calculadoraweb\\calculadora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C60956F9-3329-41BF-94F9-9C3CFE1FD5EE}|CalculadoraWeb.csproj|solutionrelative:calculadora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60956F9-3329-41BF-94F9-9C3CFE1FD5EE}|CalculadoraWeb.csproj|c:\\users\\lasca\\source\\repos\\calculadoraweb\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C60956F9-3329-41BF-94F9-9C3CFE1FD5EE}|CalculadoraWeb.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lasca\\source\\repos\\CalculadoraWeb\\Calculadora.aspx.cs",
+              "RelativeDocumentMoniker": "Calculadora.aspx.cs",
+              "ToolTip": "C:\\Users\\Lasca\\source\\repos\\CalculadoraWeb\\Calculadora.aspx.cs",
+              "RelativeToolTip": "Calculadora.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:50:34.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.aspx",
+              "DocumentMoniker": "C:\\Users\\Lasca\\source\\repos\\CalculadoraWeb\\Calculadora.aspx",
+              "RelativeDocumentMoniker": "Calculadora.aspx",
+              "ToolTip": "C:\\Users\\Lasca\\source\\repos\\CalculadoraWeb\\Calculadora.aspx",
+              "RelativeToolTip": "Calculadora.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T11:25:48.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Lasca\\source\\repos\\CalculadoraWeb\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Lasca\\source\\repos\\CalculadoraWeb\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T11:23:07.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
